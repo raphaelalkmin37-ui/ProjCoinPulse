@@ -1,1 +1,1 @@
-# ProjCoinPulse
+# CoinPulse
